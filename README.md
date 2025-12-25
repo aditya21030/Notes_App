@@ -1,17 +1,15 @@
-# Notes-App
 A modern Notes Application built using Jetpack Compose following MVVM architecture, designed to help users create, edit, organize, and manage notes efficiently with a clean and intuitive UI.
 
 ## 📸 Screenshots
 
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49e271c7-8755-4e31-bec8-457d8f05bd7d" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b19743b3-1bad-43ce-abb8-c2177124bac9" width="250"/>
+  <img src="https://github.com/user-attachments/assets/efed8033-81ed-403e-aadd-9b9e4a7fed11" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7bb61640-957b-47d8-8890-66f2205b2cea" width="250"/>
+  <img src="https://github.com/user-attachments/assets/68c35d5d-b091-4f56-a046-c10c5e045251" width="250"/>
+</p>
 
-<img src="https://github.com/user-attachments/assets/c193a2bb-c564-4b5d-9aaf-b1c0702c3c18" width="200"/>
-<img src="https://github.com/user-attachments/assets/a743bbeb-2d88-46d8-81a1-85a4f69c83d5" width="200"/>
-<img src="https://github.com/user-attachments/assets/94341899-db75-4b3b-bddf-a8a857a984f3" width="200"/>
-<img src="https://github.com/user-attachments/assets/f7013eaa-c741-4fd0-878f-4afae4d06293" width="200"/>
-<img src="https://github.com/user-attachments/assets/c9e725cb-d22d-4b35-8bc4-05824819b8df" width="200"/>
-
-</div>
 
 
 # 🚀 Features
